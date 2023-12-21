@@ -1,0 +1,23 @@
+.d1 form{
+    height:410px;
+    width:350px;
+    padding-bottom: 50px;
+    margin-left: 450px;
+    background-image: linear-gradient(to right, rgb(160, 186, 250) , rgb(193, 215, 243));
+    padding-top: 100px;
+    border:20px;
+    padding-block-start: 10px;
+}
+button:hover{
+    padding:2px;
+}
+input{
+    width:200px;
+}
+.d1 input{
+    height:20px;
+}
+.d5 button{
+  background-color: rgb(55, 55, 253);
+  width:40px;
+}

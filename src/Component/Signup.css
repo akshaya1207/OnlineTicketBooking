@@ -1,0 +1,100 @@
+.App {
+    text-align: justify;
+  }
+  h2{
+    text-align: center;
+   
+    
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+     
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  .c1 form{
+    text-align: justify;
+    width:400px;
+    margin-left: 450px;
+    margin-right: 350px;
+    margin-top: 70px;
+   margin-bottom: 80px;
+   padding-top: 50px;
+   height:460px;
+    border:2px solid rgb(75, 114, 243);
+    background-image: linear-gradient(rgb(152, 199, 246),rgb(201, 227, 246));
+    padding-block-start: 10px;
+    
+}
+
+    
+  p{
+    text-align: center;
+  }
+  button {
+    width:50%;
+    background-color: lavender;
+  border-radius: 20px;
+  padding:10px;
+  border-color: lavender;
+  box-sizing:content-box;
+  
+  }
+  body {
+ 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+   
+    
+  }
+  input{
+    border-radius: 10px;
+    
+  }
+  input-container1 input{
+    background-image: url("C:\movie booking\booking\src\Component\Assets\l1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height:15px;
+
+  }
+  .c1 input
+  {
+    height:25px;
+  }
+.u1 button{
+  background-color: blue;
+  width:40px;
+}

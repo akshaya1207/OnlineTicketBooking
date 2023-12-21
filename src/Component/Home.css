@@ -1,0 +1,93 @@
+.m{
+display:flex;
+padding: 150px;
+padding-bottom: 30px;
+padding-top: 60px;
+}
+.m1 
+{
+    padding-top: 40px;
+    margin-left: 50px;
+    
+}
+.m1 :hover
+{
+ padding-block: 10px;
+
+}
+.m2 :hover
+{
+ padding-block: 10px;
+}
+.m3 :hover
+{
+ padding-block: 10px;
+}
+.m4 :hover
+{
+ padding-block: 10px;
+}
+.m5 :hover
+{
+ padding-block: 10px;
+}
+.m6 :hover
+{
+ padding-block: 10px;
+}
+.m7 :hover
+{
+ padding-block: 10px;
+}
+.m8 :hover
+{
+ padding-block: 10px;
+}
+.m2
+{
+    padding-top: 40px;
+    margin-left: 50px;
+}
+.m3
+{
+    padding-top: 40px;
+    margin-left: 50px;
+}
+.m4
+{
+    padding-top: 40px;
+    margin-left: 50px;
+}
+.m5
+{
+    padding-top: 40px;
+    margin-left: 50px;
+}
+.m6
+{
+    padding-top: 40px;
+    margin-left: 50px;
+}
+.m7
+{
+    padding-top: 40px;
+    margin-left: 50px;
+}
+.m8
+{
+    padding-top: 40px;
+    margin-left: 50px;
+}
+.n1
+{
+    display: flex;
+    padding:150px;
+    padding-bottom: 50px;
+    padding-top: 1px;
+}
+body
+{
+
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
